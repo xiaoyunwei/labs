@@ -1,0 +1,11 @@
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\bin\Debug\netcoreapp2.0\AmazonS3WebLab.deps.json
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\bin\Debug\netcoreapp2.0\AmazonS3WebLab.runtimeconfig.json
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\bin\Debug\netcoreapp2.0\AmazonS3WebLab.runtimeconfig.dev.json
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\bin\Debug\netcoreapp2.0\AmazonS3WebLab.dll
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\obj\Debug\netcoreapp2.0\AmazonS3WebLab.csprojResolveAssemblyReference.cache
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\obj\Debug\netcoreapp2.0\AmazonS3WebLab.csproj.CoreCompileInputs.cache
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\obj\Debug\netcoreapp2.0\AmazonS3WebLab.AssemblyInfoInputs.cache
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\obj\Debug\netcoreapp2.0\AmazonS3WebLab.AssemblyInfo.cs
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\bin\Debug\netcoreapp2.0\AmazonS3WebLab.pdb
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\obj\Debug\netcoreapp2.0\AmazonS3WebLab.dll
+D:\My Files\AmazonS3WebLab\AmazonS3WebLab\obj\Debug\netcoreapp2.0\AmazonS3WebLab.pdb
