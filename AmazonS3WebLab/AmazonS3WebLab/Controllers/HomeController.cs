@@ -15,7 +15,7 @@ namespace AmazonS3WebLab.Controllers
 {
     public class HomeController : Controller
     {
-        const string BUCKET_NAME = "st-lab-101";
+        const string BUCKET_NAME = "sanofi-op-uat";
 
         private readonly IAmazonS3 _awsS3Client;
 
