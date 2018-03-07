@@ -13417,7 +13417,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yunxiao\\.nuget\\packages\\": {},
+    "C:\\Users\\wisec\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -13427,18 +13427,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Users\\yunxiao\\Documents\\GitHub\\labs\\AmazonS3WebLab\\AmazonS3WebLab\\AmazonS3WebLab.csproj",
+      "projectUniqueName": "D:\\GitHub\\labs\\AmazonS3WebLab\\AmazonS3WebLab\\AmazonS3WebLab.csproj",
       "projectName": "AmazonS3WebLab",
-      "projectPath": "D:\\Users\\yunxiao\\Documents\\GitHub\\labs\\AmazonS3WebLab\\AmazonS3WebLab\\AmazonS3WebLab.csproj",
-      "packagesPath": "C:\\Users\\yunxiao\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\yunxiao\\Documents\\GitHub\\labs\\AmazonS3WebLab\\AmazonS3WebLab\\obj\\",
+      "projectPath": "D:\\GitHub\\labs\\AmazonS3WebLab\\AmazonS3WebLab\\AmazonS3WebLab.csproj",
+      "packagesPath": "C:\\Users\\wisec\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\labs\\AmazonS3WebLab\\AmazonS3WebLab\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\yunxiao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wisec\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
