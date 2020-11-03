@@ -1,0 +1,42 @@
+﻿@page "/chat"
+@using BlazorWebChat.Data
+@inject IChatService ChatService
+
+<h1>欢迎使用“AI”实时聊天</h1>
+
+<div>
+    <div>
+        <ul id="discussionArea" style="width:600px;height:400px;border:1px solid">
+            @foreach(var conversation in _conversations)
+            {
+                <li><strong>@conversation.Name</strong>: @conversation.Text <br></li>
+            }
+        </ul>
+    </div>
+    <div>
+        @* 如果不使用 bind，而是通过如下方法，则文本框输入内容后，绑定就会失效 *@
+        @*<textarea rows="4" style="max-width:100%;width:600px">@message</textarea>*@
+        <textarea @bind="message" rows="4" style="max-width:100%;width:600px" />
+
+        <div style="margin:4px">
+            <button class="btn btn-primary" @onclick="SendMessage">Send</button>
+        </div>
+    </div>
+</div>
+
+@code{
+    private string message = "";
+    private List<Conversation> _conversations = new List<Conversation>();
+
+    private void SendMessage()
+    {
+        _conversations.Add(new Conversation { Name = "你", Text = message });
+
+        var reply = ChatService.GetReplyText(message);
+        message = "";
+
+        _conversations.Add(new Conversation { Name = "AI", Text = reply });
+    }
+}
+
+
